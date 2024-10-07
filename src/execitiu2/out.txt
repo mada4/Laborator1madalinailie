@@ -1,0 +1,4 @@
+Suma: 27
+Medie: 4.5
+Valoare minima: 2
+Valoare maxima: 8
