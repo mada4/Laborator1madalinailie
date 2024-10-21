@@ -1,11 +1,11 @@
-package execitiu2;
+package Lab1.execitiu2;
 
 import java.io.*;
 import java.util.Scanner;
 
 public class ex2 {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner scanner=new Scanner(new File("src/execitiu2/in.txt"));
+        Scanner scanner=new Scanner(new File("C:\\Users\\Madalina\\IdeaProjects\\Laborator1madalinailie\\src\\Lab1\\execitiu2\\in.txt"));
         int suma=0;
         int n;
         float medie_aritmetica=0;
@@ -13,7 +13,7 @@ public class ex2 {
         int valoare_minima=Integer.MAX_VALUE;
         int k=0;
 
-        PrintStream out=new PrintStream("src/execitiu2/out.txt");
+        PrintStream out=new PrintStream("src/Lab1/execitiu2/out.txt");
         while(scanner.hasNext()==true)
         {
             k++;

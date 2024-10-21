@@ -1,4 +1,4 @@
-package exercitiu4;
+package Lab1.exercitiu4;
 
 import java.util.Random;
 

@@ -1,0 +1,5 @@
+mada * 1 2 0,822718
+ilie maria madalina 3 10 0,851255
+laboratorul2 1 5 0,297310
+tema2 1 2 0,139760
+aeiouuuue 1 9 0,983000

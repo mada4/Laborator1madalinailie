@@ -1,4 +1,4 @@
-package execitiu1;
+package Lab1.execitiu1;
 
 import java.util.Scanner;
 
